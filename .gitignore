@@ -125,3 +125,10 @@ dmypy.json
 
 data/
 .DS_Store
+dataset\anger
+dataset\disgust
+dataset\fear
+dataset\happy
+dataset\neutral
+dataset\sad
+dataset\surprise
